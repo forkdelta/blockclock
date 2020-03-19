@@ -1,0 +1,15 @@
+{
+  "name": "@forkdelta/blockclock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/forkdelta/blockclock",
+  "author": "Arseniy Ivanov",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.0.0-beta.176",
+    "micro": "^9.3.4"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
+  }
+}
