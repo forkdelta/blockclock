@@ -809,10 +809,10 @@ escape-string-regexp@^1.0.5:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
-ethers@^5.0.0-beta.180:
-  version "5.0.0-beta.180"
-  resolved "https://registry.yarnpkg.com/ethers/-/ethers-5.0.0-beta.180.tgz#d47ce32e5d08d8111151d54edab92b9c4de507c0"
-  integrity sha512-8c95D7e7QwLKCueVCQR7nFm/jcpofiMqvA+IfSqGN6X/o5mLa7XT93c/uoT7xJunoJtF+MBQNcArdz5XfI++Lg==
+ethers@^5.0.0-beta.182:
+  version "5.0.0-beta.182"
+  resolved "https://registry.yarnpkg.com/ethers/-/ethers-5.0.0-beta.182.tgz#d6454932aad0581912d1d99e77128f65e9610aaf"
+  integrity sha512-MP33DY56RHYk/8UpJeEB7VfXxxGoXYqu+yMk9jffCj+YZihHVAD8ux9XteE1UKR3aM9o6dJhpE3lHBRYhvmPng==
   dependencies:
     "@ethersproject/abi" ">=5.0.0-beta.137"
     "@ethersproject/abstract-provider" ">=5.0.0-beta.131"
