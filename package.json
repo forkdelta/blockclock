@@ -6,7 +6,7 @@
   "author": "Arseniy Ivanov",
   "license": "MIT",
   "dependencies": {
-    "ethers": "^5.0.13",
+    "ethers": "^5.4.0",
     "micro": "^9.3.4"
   },
   "devDependencies": {
